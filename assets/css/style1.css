@@ -80,6 +80,14 @@ video{
         position: relative;
         left: -160px;
     }
+    .logosize1 p{
+        position: relative;
+        left: -160px;
+    }
+    .logosize p{
+        position: relative;
+        left: -170px;
+        font-size:18px;    }
     .count{
         position: relative;
         left: -160px;
